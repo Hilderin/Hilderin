@@ -45,9 +45,9 @@ My GitHub repositories include experiments and projects related to:
 
 ## GitHub Stats
 
-![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilderin\&show_icons=true\&hide_border=true)
+[![Hilderin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilderin)](https://github.com/Hilderin/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilderin\&layout=compact\&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilderin)](https://github.com/Hilderin/github-readme-stats)
 
 ## Connect
 
