@@ -47,6 +47,8 @@ My GitHub repositories include experiments and projects related to:
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=Hilderin)
 
+![Top Languages](https://ghstats.dev/api/langs?username=Hilderin)
+
 ## Connect
 
 * [GitHub](https://github.com/Hilderin)
