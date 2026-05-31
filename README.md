@@ -17,7 +17,7 @@ Architecture   │ Microservices · Kubernetes · Cloud-native systems · Distri
 Backend        │ C# · .NET · GraphQL · REST APIs · Event-driven architecture
 AI             │ LLMs · AI integration · Developer productivity · MCP
 Game Dev       │ Game engines · Rendering · OpenGL · Vulkan · Godot · Tooling
-Systems        │ C · C++ · Zig · Runtime experiments · Low-level programming
+Systems        │ C · C++ · Zig · Odin · Runtime experiments · Low-level programming
 ```
 
 ## Current Focus
