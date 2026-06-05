@@ -43,12 +43,6 @@ My GitHub repositories include experiments and projects related to:
 * Developer productivity tools
 * Low-level programming and systems experiments
 
-## GitHub Stats
-
-![GitHub Stats](https://ghstats.dev/api/card?username=Hilderin)
-
-![Top Languages](https://ghstats.dev/api/langs?username=Hilderin)
-
 ## Connect
 
 * [GitHub](https://github.com/Hilderin)
